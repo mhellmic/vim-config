@@ -31,6 +31,8 @@ syntax on
 " colorscheme wombat256
 " turn line numbers on
 set number
+" show tabs and newlines
+set list
 
 nnoremap <Right> <C-w>l
 nnoremap <Left> <C-w>h
